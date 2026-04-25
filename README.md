@@ -1,4 +1,3 @@
-```markdown
 ## Installing
 
 **Frontend**  
